@@ -1,0 +1,2 @@
+# Funções
+As paginas Aula 7, Multiplicação e Potencia, são as paginas feitas para esta atividade, as outras partes são foram feitas para a atividade de comandos de decisão. Não consegui achar maneiras de converter alguns códigos da atividade de comandos de decisão devido a sua complexidade e pelo fato que concerteza iria quebrar todo o codigo, o que foi de meu alcance foi alterado (De uma forma mais resumida, não mexi no código por medo de quebrar tudo, o código, o pc e a cabeça) :D
